@@ -93,10 +93,8 @@ This project follows the principles of Clean Architecture in Go, separating conc
 
 ## TODO
 
-1. Create controller for signin and refresh token.
+1. Add controller for signin and refresh token.
 2. Implement Role-Based Access Control (RBAC).
 3. Implement other necessary functionalities.
 
 ---
-
-Feel free to expand and customize this README according to your project's specific needs and requirements!
